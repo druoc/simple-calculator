@@ -1,0 +1,15 @@
+/home/dave/C-Sharp/simple-calculator/bin/Debug/net7.0/simple-calculator
+/home/dave/C-Sharp/simple-calculator/bin/Debug/net7.0/simple-calculator.deps.json
+/home/dave/C-Sharp/simple-calculator/bin/Debug/net7.0/simple-calculator.runtimeconfig.json
+/home/dave/C-Sharp/simple-calculator/bin/Debug/net7.0/simple-calculator.dll
+/home/dave/C-Sharp/simple-calculator/bin/Debug/net7.0/simple-calculator.pdb
+/home/dave/C-Sharp/simple-calculator/obj/Debug/net7.0/simple-calculator.csproj.AssemblyReference.cache
+/home/dave/C-Sharp/simple-calculator/obj/Debug/net7.0/simple-calculator.GeneratedMSBuildEditorConfig.editorconfig
+/home/dave/C-Sharp/simple-calculator/obj/Debug/net7.0/simple-calculator.AssemblyInfoInputs.cache
+/home/dave/C-Sharp/simple-calculator/obj/Debug/net7.0/simple-calculator.AssemblyInfo.cs
+/home/dave/C-Sharp/simple-calculator/obj/Debug/net7.0/simple-calculator.csproj.CoreCompileInputs.cache
+/home/dave/C-Sharp/simple-calculator/obj/Debug/net7.0/simple-calculator.dll
+/home/dave/C-Sharp/simple-calculator/obj/Debug/net7.0/refint/simple-calculator.dll
+/home/dave/C-Sharp/simple-calculator/obj/Debug/net7.0/simple-calculator.pdb
+/home/dave/C-Sharp/simple-calculator/obj/Debug/net7.0/simple-calculator.genruntimeconfig.cache
+/home/dave/C-Sharp/simple-calculator/obj/Debug/net7.0/ref/simple-calculator.dll
